@@ -51,7 +51,7 @@ metadata:
     allow.http: "false"
 spec:
   rules:
-  - host: go.rancher.icts.net.br
+  - host: abc.icts.net.br
     http:
       paths:
         - path: /
